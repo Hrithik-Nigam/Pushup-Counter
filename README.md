@@ -4,3 +4,5 @@ The code toggles on the default device camera to start capturing. As soon as the
 The landmarks under consideration for this exercise are elbows, joints and wrists (both left and right).
 The angles between an elbows, joints and wrists, is calculated and their mean determines whether the push-up is in UP-state or DOWN-state.
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.googblogs.com%2Ftag%2Fmachine-perception%2Fpage%2F2%2F&psig=AOvVaw27l4ZnzsKu0EgEerSlidiA&ust=1643169703126000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCC7rqCzPUCFQAAAAAdAAAAABAD">
+
+Credit- https://youtu.be/06TE_U21FK4?si=vsu2vL9q8s8frSQb
